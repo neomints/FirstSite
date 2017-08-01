@@ -3,7 +3,8 @@ ul.nav li{
     padding-right: 10px;
 }
 
-.colrder-style: solid;
+.color-info {
+  border-style: solid;
   border-color: black;
   border-width: 3px;
   }
@@ -18,7 +19,7 @@ ul.nav li{
 }
 
 .nav a {
-  color: red;
+  color: white;
 }
 
 
